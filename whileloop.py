@@ -1,0 +1,1 @@
+# we can use any loop in python , sometimes for loop is convenient and sometimes for loop is convenient.
