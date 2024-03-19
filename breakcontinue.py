@@ -1,3 +1,4 @@
+
 # print table of 5 till 10
 for i in range(1,12): 
     print(" 5 x", i , "=", 5*i)
